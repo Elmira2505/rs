@@ -4,7 +4,7 @@
  I am a director in my own company, I work in a customs service and prepare documents as well as a cargo customs declaration. Many years ago I worked  a database programmer. Currently my main goal is training a full stack developer in web applications for work in future.
  <hr>
  
-__* I  am responsibility, communication skills, stress resistance, learning ability, desire to work in a team, achieve professional growth to a Back-End developer using Laravel, Java Spring. *__
+__*I  am responsibility, communication skills, stress resistance, learning ability, desire to work in a team, achieve professional growth to a Back-End developer using Laravel, Java Spring.*__
 
 
 ### Skills: 
